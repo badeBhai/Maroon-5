@@ -1,0 +1,54 @@
+{
+    "music":[
+        {
+            "id":1,
+            "name":"Album 1",
+            "price":1299,
+            "imgName":"album.jpg"
+        },
+        {
+            "id":2,
+            "name":"Album 2",
+            "price":1399,
+            "imgName":"album.jpg"
+        },
+        {
+            "id":3,
+            "name":"Album 3",
+            "price":1499,
+            "imgName":"album.jpg"
+        },
+        {
+            "id":4,
+            "name":"Album 4",
+            "price":1599,
+            "imgName":"album.jpg"
+        }
+    ],
+    "merch":[
+        {
+            "id":5,
+            "name":"Merch 1",
+            "price":299,
+            "imgName":"merch.jpg"
+        },
+        {
+            "id":6,
+            "name":"Merch 2",
+            "price":399,
+            "imgName":"merch.jpg"
+        },
+        {
+            "id":7,
+            "name":"Merch 3",
+            "price":499,
+            "imgName":"merch.jpg"
+        },
+        {
+            "id":8,
+            "name":"Merch 4",
+            "price":599,
+            "imgName":"merch.jpg"
+        }
+    ]
+}
